@@ -412,4 +412,4 @@ function play(guild, song){
                 .setColor([226, 50, 41])
             return serverQueue.textChannel.sendEmbed(embedfunction1);
 }
-client.login(process.env.BOT_TOKEN);
+client.login('ODcwNjI5NzQxOTA3MDUwNDk2.YQPjIQ.8KOy7SyFr5AtKvAYzZjlQWVvFMI');
